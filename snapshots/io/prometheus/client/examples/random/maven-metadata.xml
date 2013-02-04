@@ -3,10 +3,11 @@
   <groupId>io.prometheus.client.examples</groupId>
   <artifactId>random</artifactId>
   <versioning>
-    <release>0.0.0a</release>
+    <release>0.0.0b</release>
     <versions>
       <version>0.0.0a</version>
+      <version>0.0.0b</version>
     </versions>
-    <lastUpdated>20130204172627</lastUpdated>
+    <lastUpdated>20130204175817</lastUpdated>
   </versioning>
 </metadata>
