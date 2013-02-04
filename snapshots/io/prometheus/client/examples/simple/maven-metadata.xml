@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.prometheus.client.examples</groupId>
+  <artifactId>simple</artifactId>
+  <versioning>
+    <release>0.0.0a</release>
+    <versions>
+      <version>0.0.0a</version>
+    </versions>
+    <lastUpdated>20130204172628</lastUpdated>
+  </versioning>
+</metadata>
